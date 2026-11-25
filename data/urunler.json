@@ -142,16 +142,7 @@
       "gorsel": "img/ejderha-yumurtasi.webp",
       "one_cikan": false,
       "yeni": false,
-      "galeri": [
-        {
-          "gorsel": "img/ejderha-yumurtasi-mavi.webp",
-          "alt": "Hareketli ejderha yumurtası (mavi)"
-        },
-        {
-          "gorsel": "img/ejderha-yumurtasi-pembe.webp",
-          "alt": "Hareketli ejderha yumurtası (pembe)"
-        }
-      ]
+      "galeri": []
     },
     {
       "ad": "Örgü desenli şekerlik",
@@ -193,7 +184,8 @@
       "gorsel": "img/tablet-telefon-standi.webp",
       "one_cikan": false,
       "yeni": true,
-      "galeri": []
+      "galeri": [],
+      "gizli": true
     },
     {
       "ad": "Telefon tutacağı",
@@ -211,7 +203,8 @@
           "gorsel": "img/telefon-tutacagi-sari-2.webp",
           "alt": "telefon-tutacagi-sari-2"
         }
-      ]
+      ],
+      "gizli": true
     },
     {
       "ad": "Figürlü telefon tutucu",
