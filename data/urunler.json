@@ -1,0 +1,268 @@
+{
+  "items": [
+    {
+      "ad": "Papatya sunum standı",
+      "kategori": "sunum",
+      "aciklama": "Pasta ve tatlılar için. Sekiz renk seçeneğiyle.",
+      "fiyat": "",
+      "renkler": [
+        "Gri",
+        "Pembe",
+        "Mint yeşil",
+        "Mavi",
+        "Mor",
+        "Siyah",
+        "Gold",
+        "Lila"
+      ],
+      "gorsel": "img/papatya-sunum-standi.webp",
+      "one_cikan": true,
+      "yeni": false,
+      "galeri": []
+    },
+    {
+      "ad": "Oval kalemlik",
+      "kategori": "masa-duzeni",
+      "aciklama": "Üç bölmeli, çizgili dokulu masa düzenleyici.",
+      "fiyat": "",
+      "renkler": [
+        "Bej"
+      ],
+      "gorsel": "img/kalemlik-seti-bej.webp",
+      "one_cikan": true,
+      "yeni": false,
+      "galeri": []
+    },
+    {
+      "ad": "Masa organizer seti",
+      "kategori": "masa-duzeni",
+      "aciklama": "Kalemlik ve bölmeli tepsi. Masanızdaki küçük eşyalar yerinde kalır.",
+      "fiyat": "",
+      "renkler": [
+        "Yeşil"
+      ],
+      "gorsel": "img/masa-organizer-yesil.webp",
+      "one_cikan": false,
+      "yeni": false,
+      "galeri": [
+        {
+          "gorsel": "img/masa-organizer-pembe.webp",
+          "alt": "Masa organizer seti (pembe)"
+        }
+      ]
+    },
+    {
+      "ad": "Üçlü masa seti",
+      "kategori": "masa-duzeni",
+      "aciklama": "Kalemlik ve tepsi kombinasyonu.",
+      "fiyat": "",
+      "renkler": [
+        "Gri",
+        "Siyah",
+        "Bej"
+      ],
+      "gorsel": "img/uclu-organizer-seti.webp",
+      "one_cikan": false,
+      "yeni": false,
+      "galeri": []
+    },
+    {
+      "ad": "Bej masa seti",
+      "kategori": "masa-duzeni",
+      "aciklama": "Kalemlik, kartlık ve tepsiden oluşan takım.",
+      "fiyat": "",
+      "renkler": [
+        "Bej"
+      ],
+      "gorsel": "img/organizer-bej-set.webp",
+      "one_cikan": false,
+      "yeni": false,
+      "galeri": []
+    },
+    {
+      "ad": "Spiral vazo",
+      "kategori": "ev-dekorasyonu",
+      "aciklama": "Hafif, dayanıklı ve birden fazla renk seçeneğiyle.",
+      "fiyat": "",
+      "renkler": [
+        "Yeşil",
+        "Mor",
+        "Pembe",
+        "Mavi",
+        "Gri",
+        "Siyah",
+        "Gold"
+      ],
+      "gorsel": "img/spiral-vazo.webp",
+      "one_cikan": true,
+      "yeni": false,
+      "galeri": []
+    },
+    {
+      "ad": "Anahtarlık",
+      "kategori": "kisiye-ozel",
+      "aciklama": "Kurdele figürlü anahtarlık ve isme özel anahtarlık.",
+      "fiyat": "",
+      "renkler": [],
+      "gorsel": "img/anahtarlik-fiyonk-mimo.webp",
+      "one_cikan": false,
+      "yeni": false,
+      "galeri": [
+        {
+          "gorsel": "img/isme-ozel-anahtarlik.webp",
+          "alt": "İsme özel anahtarlık"
+        },
+        {
+          "gorsel": "img/plaka-anahtarlik.webp",
+          "alt": "plaka-anahtarlik"
+        }
+      ]
+    },
+    {
+      "ad": "Sıvı sabunluk",
+      "kategori": "banyo",
+      "aciklama": "Sıvı sabun için. Altın renkli pompa ve çizgili gövde.",
+      "fiyat": "",
+      "renkler": [
+        "Gri"
+      ],
+      "gorsel": "img/sivi-sabunluk-gri.webp",
+      "one_cikan": false,
+      "yeni": false,
+      "galeri": []
+    },
+    {
+      "ad": "Hareketli ejderha yumurtası",
+      "kategori": "oyuncak-hobi",
+      "aciklama": "Açılan kabuğunun içinden çıkan hareketli ejderha.",
+      "fiyat": "",
+      "renkler": [],
+      "gorsel": "img/ejderha-yumurtasi.webp",
+      "one_cikan": false,
+      "yeni": false,
+      "galeri": [
+        {
+          "gorsel": "img/ejderha-yumurtasi-mavi.webp",
+          "alt": "Hareketli ejderha yumurtası (mavi)"
+        },
+        {
+          "gorsel": "img/ejderha-yumurtasi-pembe.webp",
+          "alt": "Hareketli ejderha yumurtası (pembe)"
+        }
+      ]
+    },
+    {
+      "ad": "Örgü desenli şekerlik",
+      "kategori": "ev-dekorasyonu",
+      "aciklama": "Kapaklı örgü desenli kutu. Mor, sarı, yeşil, siyah, kırmızı, gri, bej ve beyaz renk seçenekleri.",
+      "fiyat": "",
+      "renkler": [
+        "Mor",
+        "Sarı",
+        "Yeşil",
+        "Siyah",
+        "Kırmızı",
+        "Gri",
+        "Bej",
+        "Beyaz"
+      ],
+      "gorsel": "img/sekerlik-orgu-bej.webp",
+      "one_cikan": false,
+      "yeni": true,
+      "galeri": [
+        {
+          "gorsel": "img/sekerlik-orgu-mor.webp",
+          "alt": "sekerlik-orgu-mor"
+        },
+        {
+          "gorsel": "img/sekerlik-orgu-sari.webp",
+          "alt": "sekerlik-orgu-sari"
+        }
+      ]
+    },
+    {
+      "ad": "Ayarlanabilir tablet ve telefon standı",
+      "kategori": "masa-duzeni",
+      "aciklama": "Katlanabilir, açısı ayarlanabilir. Tablet ve telefonlar için.",
+      "fiyat": "",
+      "renkler": [
+        "Sarı"
+      ],
+      "gorsel": "img/tablet-telefon-standi.webp",
+      "one_cikan": false,
+      "yeni": true,
+      "galeri": []
+    },
+    {
+      "ad": "Telefon tutacağı",
+      "kategori": "masa-duzeni",
+      "aciklama": "Masada telefonu dik tutan sade tutacak. Tüm telefonlarla uyumlu.",
+      "fiyat": "",
+      "renkler": [
+        "Sarı"
+      ],
+      "gorsel": "img/telefon-tutacagi-sari.webp",
+      "one_cikan": false,
+      "yeni": true,
+      "galeri": [
+        {
+          "gorsel": "img/telefon-tutacagi-sari-2.webp",
+          "alt": "telefon-tutacagi-sari-2"
+        }
+      ]
+    },
+    {
+      "ad": "Figürlü telefon tutucu",
+      "kategori": "masa-duzeni",
+      "aciklama": "Figür tasarımlı, farklı telefon modellerine uygun. Metalik renk tonu.",
+      "fiyat": "",
+      "renkler": [
+        "Metalik mor-yeşil"
+      ],
+      "gorsel": "img/telefon-tutucu-figurlu.webp",
+      "one_cikan": false,
+      "yeni": true,
+      "galeri": [
+        {
+          "gorsel": "img/telefon-tutucu-figurlu-2.webp",
+          "alt": "telefon-tutucu-figurlu-2"
+        },
+        {
+          "gorsel": "img/telefon-tutucu-figurlu-3.webp",
+          "alt": "telefon-tutucu-figurlu-3"
+        }
+      ]
+    },
+    {
+      "ad": "Yuvarlak ilaç kutusu",
+      "kategori": "banyo",
+      "aciklama": "Gün gün bölmeli, 7 günlük yuvarlak ilaç saklama kutusu.",
+      "fiyat": "",
+      "renkler": [],
+      "gorsel": "img/ilac-kutusu-yuvarlak.webp",
+      "one_cikan": false,
+      "yeni": true,
+      "galeri": []
+    },
+    {
+      "ad": "Oval tepsi",
+      "kategori": "masa-duzeni",
+      "aciklama": "Çizgili oval tasarımlı masa tepsisi. Bej, gri ve koyu mavi tonlarında.",
+      "fiyat": "",
+      "renkler": [
+        "Bej",
+        "Gri",
+        "Koyu mavi"
+      ],
+      "gorsel": "img/oval-tepsi.webp",
+      "one_cikan": false,
+      "yeni": true,
+      "galeri": [
+        {
+          "gorsel": "img/oval-tepsi-2.webp",
+          "alt": "oval-tepsi-2"
+        }
+      ]
+    }
+  ]
+}
