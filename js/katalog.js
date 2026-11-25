@@ -132,7 +132,7 @@
   json('data/site.json').then(siteBilgisiniUygula).catch(function () { /* varsayılan metinler kalır */ });
 
   json('data/urunler.json').then(function (veri) {
-    var urunler = (veri.items || []).filter(function (u) { return u && u.ad && u.gorsel; });
+    var urunler = (veri.items || []).filter(function (u) { return u && u.ad && u.gorsel && !u.gizli; });
     if (!urunler.length) {
       document.getElementById('urun-durum').textContent = 'Ürünler yakında eklenecek.';
       return;

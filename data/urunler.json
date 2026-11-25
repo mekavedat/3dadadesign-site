@@ -18,7 +18,8 @@
       "gorsel": "img/papatya-sunum-standi.webp",
       "one_cikan": true,
       "yeni": false,
-      "galeri": []
+      "galeri": [],
+      "gizli": true
     },
     {
       "ad": "Oval kalemlik",
@@ -96,7 +97,8 @@
       "gorsel": "img/spiral-vazo.webp",
       "one_cikan": true,
       "yeni": false,
-      "galeri": []
+      "galeri": [],
+      "gizli": true
     },
     {
       "ad": "Anahtarlık",
